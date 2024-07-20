@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\WinFormsAirlineProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99AC2C36-F4E6-4295-83EC-5CE44FC03093}|CRUDVoos\\ProjetoFinalVoos.csproj|d:\\projetos\\winformsairlineproject\\crudvoos\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99AC2C36-F4E6-4295-83EC-5CE44FC03093}|CRUDVoos\\ProjetoFinalVoos.csproj|solutionrelative:crudvoos\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Projetos\\WinFormsAirlineProject\\CRUDVoos\\FormMenu.cs",
+              "RelativeDocumentMoniker": "CRUDVoos\\FormMenu.cs",
+              "ToolTip": "D:\\Projetos\\WinFormsAirlineProject\\CRUDVoos\\FormMenu.cs [Design]",
+              "RelativeToolTip": "CRUDVoos\\FormMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T14:53:31.878Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
